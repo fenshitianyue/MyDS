@@ -30,7 +30,7 @@
 
 #### 4、队列
 
-TODO
+[queue](https://github.com/fenshitianyue/MyDS/blob/master/queue.pdf)
 
 ### 四、非线性结构
 
