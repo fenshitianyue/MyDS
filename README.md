@@ -24,6 +24,9 @@
 
 [link_table](https://github.com/fenshitianyue/MyDS/blob/master/link_table.pdf)
 
+这是一个关于链表的算法题，通过它可以更加熟悉链表的属性:
+[link_table_example](https://github.com/fenshitianyue/MyDS/blob/master/link_table_example.pdf)
+
 #### 3、栈
 
 [stack](https://github.com/fenshitianyue/MyDS/blob/master/stack.pdf)
